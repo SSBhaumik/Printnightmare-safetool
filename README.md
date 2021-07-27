@@ -14,3 +14,6 @@ Find Windows patch here: https://www.catalog.update.microsoft.com/Search.aspx?q=
 It doesn't fix the problem anyways, https://www.bleepingcomputer.com/news/microsoft/microsofts-incomplete-printnightmare-patch-fails-to-fix-vulnerability/
 
 It just adds to more problem in some cases: https://www.zdnet.com/article/microsofts-printnightmare-patch-is-now-causing-problems-for-some-printers/
+
+Vulnerability detail page: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527 ,  https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34481
+
