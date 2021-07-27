@@ -4,3 +4,5 @@ Windows PrintNightmare vulnerability mitigation tool. A tool to start or stop pr
 Available in "releases"
 1. extract all files in one directory
 2. execute Run.bat 
+
+Find Windows patch here: https://www.catalog.update.microsoft.com/Search.aspx?q=KB5004945
