@@ -1,0 +1,1 @@
+Set-Service -Name Spooler -StartupType Automatic
