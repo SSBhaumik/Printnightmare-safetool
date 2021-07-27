@@ -6,3 +6,4 @@ Available in "releases"
 2. execute Run.bat 
 
 Find Windows patch here: https://www.catalog.update.microsoft.com/Search.aspx?q=KB5004945
+It doesn't fix the problem anyways, https://www.bleepingcomputer.com/news/microsoft/microsofts-incomplete-printnightmare-patch-fails-to-fix-vulnerability/
